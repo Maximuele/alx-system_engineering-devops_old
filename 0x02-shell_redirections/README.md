@@ -1,1 +1,1 @@
-My redirection README file
+echo 'hello world script'
