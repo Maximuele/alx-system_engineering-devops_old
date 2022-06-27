@@ -1,1 +1,1 @@
-echo 'hello world script'
+my redirect read me
