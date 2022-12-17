@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-#lists all processes for all users including those without a tty
-#displays in user-oriented format
-#show process hierachy
+# lists all processes for all users including those without a tty
+# displays in user-oriented format
+# show process hierachy
 
 ps auxf
