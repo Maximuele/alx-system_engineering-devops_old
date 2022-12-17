@@ -3,4 +3,4 @@
 # displays in user-oriented format
 # show process hierachy
 
-ps auxf
+ps auxf | less
