@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# lists all processes for all users including those without a tty
-# displays in user-oriented format
-# show process hierachy
+# a Bash script that displays a list of currently running processes
+# display all processes (a): user-oriented (u), w/wo TTY (x), show heirachy (f)
 
 ps auxf | less
